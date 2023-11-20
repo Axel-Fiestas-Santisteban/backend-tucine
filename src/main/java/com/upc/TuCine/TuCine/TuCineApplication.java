@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Bean;
 				)
 		),
 		servers = {
-				@Server(url = "http://backend-tucine-production.up.railway.app")
+				@Server(url = "https://backend-tucine-production.up.railway.app")
 		}
 )
 

@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Bean;
 				)
 		),
 		servers = {
-				@Server(url = "http://localhost:8080", description = "Local server")
+				@Server(url = "https://backend-tucine-production.up.railway.app")
 		}
 )
 
